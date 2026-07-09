@@ -1,0 +1,224 @@
+{
+ "total_essalud": 408,
+ "by_dept": {
+  "PUNO": {
+   "total": 26,
+   "I": 21,
+   "II": 4,
+   "III": 0,
+   "otros": 1
+  },
+  "APURIMAC": {
+   "total": 12,
+   "I": 10,
+   "II": 2,
+   "III": 0,
+   "otros": 0
+  },
+  "LIMA": {
+   "total": 57,
+   "I": 36,
+   "II": 15,
+   "III": 3,
+   "otros": 3
+  },
+  "LORETO": {
+   "total": 11,
+   "I": 9,
+   "II": 1,
+   "III": 1,
+   "otros": 0
+  },
+  "TUMBES": {
+   "total": 4,
+   "I": 3,
+   "II": 1,
+   "III": 0,
+   "otros": 0
+  },
+  "LA LIBERTAD": {
+   "total": 39,
+   "I": 29,
+   "II": 5,
+   "III": 2,
+   "otros": 3
+  },
+  "HUANUCO": {
+   "total": 11,
+   "I": 9,
+   "II": 2,
+   "III": 0,
+   "otros": 0
+  },
+  "AYACUCHO": {
+   "total": 12,
+   "I": 11,
+   "II": 1,
+   "III": 0,
+   "otros": 0
+  },
+  "PIURA": {
+   "total": 22,
+   "I": 18,
+   "II": 3,
+   "III": 1,
+   "otros": 0
+  },
+  "ICA": {
+   "total": 15,
+   "I": 11,
+   "II": 4,
+   "III": 0,
+   "otros": 0
+  },
+  "LAMBAYEQUE": {
+   "total": 20,
+   "I": 14,
+   "II": 3,
+   "III": 1,
+   "otros": 2
+  },
+  "JUNIN": {
+   "total": 20,
+   "I": 16,
+   "II": 3,
+   "III": 1,
+   "otros": 0
+  },
+  "ANCASH": {
+   "total": 21,
+   "I": 19,
+   "II": 0,
+   "III": 0,
+   "otros": 2
+  },
+  "AMAZONAS": {
+   "total": 10,
+   "I": 7,
+   "II": 3,
+   "III": 0,
+   "otros": 0
+  },
+  "AREQUIPA": {
+   "total": 27,
+   "I": 23,
+   "II": 3,
+   "III": 1,
+   "otros": 0
+  },
+  "HUANCAVELICA": {
+   "total": 8,
+   "I": 7,
+   "II": 1,
+   "III": 0,
+   "otros": 0
+  },
+  "SAN MARTIN": {
+   "total": 14,
+   "I": 12,
+   "II": 2,
+   "III": 0,
+   "otros": 0
+  },
+  "CALLAO": {
+   "total": 5,
+   "I": 3,
+   "II": 1,
+   "III": 1,
+   "otros": 0
+  },
+  "UCAYALI": {
+   "total": 6,
+   "I": 5,
+   "II": 1,
+   "III": 0,
+   "otros": 0
+  },
+  "TACNA": {
+   "total": 8,
+   "I": 7,
+   "II": 1,
+   "III": 0,
+   "otros": 0
+  },
+  "CUSCO": {
+   "total": 18,
+   "I": 15,
+   "II": 2,
+   "III": 1,
+   "otros": 0
+  },
+  "MADRE DE DIOS": {
+   "total": 4,
+   "I": 3,
+   "II": 1,
+   "III": 0,
+   "otros": 0
+  },
+  "PASCO": {
+   "total": 14,
+   "I": 11,
+   "II": 3,
+   "III": 0,
+   "otros": 0
+  },
+  "CAJAMARCA": {
+   "total": 17,
+   "I": 14,
+   "II": 3,
+   "III": 0,
+   "otros": 0
+  },
+  "MOQUEGUA": {
+   "total": 7,
+   "I": 5,
+   "II": 2,
+   "III": 0,
+   "otros": 0
+  }
+ },
+ "by_nivel": {
+  "I": 318,
+  "II": 67,
+  "III": 12,
+  "otros": 11
+ },
+ "categorias": {
+  "I-3": 138,
+  "I-2": 159,
+  "II-2": 16,
+  "II-1": 40,
+  "II-E": 11,
+  "0": 11,
+  "I-4": 19,
+  "III-2": 2,
+  "III-1": 8,
+  "I-1": 2,
+  "III-E": 2
+ },
+ "n_redes": 22,
+ "redes": [
+  "ALTO AMAZONAS",
+  "BARRANCO - CHORRILLOS - SURCO",
+  "CAJAMARCA",
+  "CHICLAYO",
+  "ICA-PALPA-NAZCA",
+  "JAEN",
+  "JUNIN",
+  "LAMBAYEQUE",
+  "LIMA CIUDAD",
+  "LORETO",
+  "MADRE DE DIOS",
+  "MAYNAS CIUDAD",
+  "MOQUEGUA",
+  "MOYOBAMBA",
+  "NO PERTENECE A NINGUNA RED",
+  "PASCO",
+  "PIURA CASTILLA",
+  "PUNO",
+  "RED CHEPEN",
+  "RED PATAZ",
+  "RED TRUJILLO",
+  "TACNA"
+ ]
+}
